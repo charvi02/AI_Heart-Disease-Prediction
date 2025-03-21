@@ -20,4 +20,4 @@ The project is titled "Heart Disease Prediction" and aims to develop a machine-l
    - The final model achieved reliable predictive accuracy, offering insights into the key risk factors contributing to heart disease.
    - It provides an interpretable and actionable result for clinical use.
 
-This project highlights the practical application of AI in healthcare, contributing to early detection and prevention strategies. Let me know if you'd like further details on specific sections like data preprocessing or model evaluation!
+This project highlights the practical application of AI in healthcare, contributing to early detection and prevention strategies. 
